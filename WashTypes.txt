@@ -1,0 +1,10 @@
+Hurtigvask 70
+Sæson-vask 90
+clean-vask 120
+SuperGlans 200
+Lågzuzvask 300
+Vasketype6 0
+Vasketype7 0
+Vasketype8 0
+Vasketype9 0
+Vasketype10 0
